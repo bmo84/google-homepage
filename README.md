@@ -1,2 +1,3 @@
 # google-homepage
-Copy of googles homepage
+Author: Brandon Martinez
+Description: Google homepage clone
